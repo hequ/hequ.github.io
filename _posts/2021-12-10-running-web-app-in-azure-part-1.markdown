@@ -1,6 +1,6 @@
 ---
 title: Running web app in Azure part 1
-date: 2022-12-10 00:00:00 +0200
+date: 2021-12-10 00:00:00 +0200
 categories: azure docker
 layout: post
 ---
@@ -46,7 +46,7 @@ One cool thing about ACR is that it can use Azure’s Managed Identities to mana
 
 From here-on now, we need access to Azure, and if we don’t have an account already, we can go and sign-up here:
 
-https://azure.microsoft.com/
+[azure.microsoft.com](https://azure.microsoft.com/)
 
 # Drafting our Plan
 
