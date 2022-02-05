@@ -23,7 +23,7 @@ email: henri@kinnunen.io
 description: >- # this means to ignore newlines until "baseurl:"
   My tiny corner on the internet, where I share my thoughts
   on various topics. Mostly about cloud and programming, though.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hequ.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hequmania
 github_username: hequ
