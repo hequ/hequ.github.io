@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi!
+Hi there,
 
-And welcome to my site! I'm gathering all my writings about cloud and programming into this site. As this is a static site generated with Jekyll, there's no possibility to comment any of my articles. You can, however, drop me a comment about anything I write, in twitter, or in linked in where I'm most active.
+Welcome to my website. This is my personal space where I'm writing things that I consider worthy to share. I write mostly to make my own thinking clearer, but you might find some food for thought as well. I still consider myself new to writing online, so my writing schedule is probably not very regular. I'm trying to make it a habit though.
 
-I hope I made your visit worthwhile by giving you some food for thought. So thanks for stopping by, I really appreciate it!
+I really appreciate you visiting here! Please drop me a message in any of the social networks (you can find the links on the bottom of the page)! :)
 
 -- Henri
+
+<img src="/assets/hequ.png" alt="drawing" width="300"/>
